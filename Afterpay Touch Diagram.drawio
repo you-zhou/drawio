@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="AqOYOeoOcHNVUCLqRR6C">
-    <mxGraphModel dx="1403" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1011" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DXzVk3drle5wCnbR4Go3-16" value="444 Upwire IVR" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.012;entryY=0.354;entryDx=0;entryDy=0;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=2;entryPerimeter=0;exitX=0.879;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=8;" parent="1" source="DXzVk3drle5wCnbR4Go3-3" target="DXzVk3drle5wCnbR4Go3-7" edge="1">
+        <mxCell id="DXzVk3drle5wCnbR4Go3-16" value="444 Upwire IVR" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.012;entryY=0.354;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;exitX=0.879;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=8;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" source="DXzVk3drle5wCnbR4Go3-3" target="DXzVk3drle5wCnbR4Go3-7" edge="1">
           <mxGeometry x="-0.318" y="-3" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="82" y="485" as="sourcePoint" />
             <mxPoint x="509.9999999999998" y="400" as="targetPoint" />
@@ -60,8 +60,8 @@
         <mxCell id="DXzVk3drle5wCnbR4Go3-23" value="PPIN&lt;div&gt;Recharge Gateway&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="358" y="726" width="110" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="DXzVk3drle5wCnbR4Go3-27" value="Recharge API&lt;div style=&quot;font-size: 8px;&quot;&gt;eTopup&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#0050ef;strokeColor=#0c0c0d;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" parent="1" source="DXzVk3drle5wCnbR4Go3-5" target="DXzVk3drle5wCnbR4Go3-23" edge="1">
-          <mxGeometry x="-0.0835" y="-49" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="DXzVk3drle5wCnbR4Go3-27" value="Recharge API&lt;div style=&quot;font-size: 8px;&quot;&gt;eTopup&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;gradientColor=#ffd966;" parent="1" source="DXzVk3drle5wCnbR4Go3-5" target="DXzVk3drle5wCnbR4Go3-23" edge="1">
+          <mxGeometry x="-0.073" y="-56" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660.568034557235" y="585.2500000000002" as="sourcePoint" />
             <mxPoint x="523" y="757.0618556701031" as="targetPoint" />
             <Array as="points">
@@ -69,7 +69,7 @@
               <mxPoint x="648" y="693" />
               <mxPoint x="595" y="751" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DXzVk3drle5wCnbR4Go3-36" value="IP Sec Tunnel" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#ae4132;fillColor=#fad9d5;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.tunnel_straight;fontColor=#e71313;rotation=-90;" parent="1" vertex="1">
@@ -115,9 +115,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DXzVk3drle5wCnbR4Go3-55" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#0050ef;strokeColor=#0c0c0d;strokeWidth=2;exitX=0.963;exitY=0.483;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DXzVk3drle5wCnbR4Go3-7" target="DXzVk3drle5wCnbR4Go3-5" edge="1">
+        <mxCell id="DXzVk3drle5wCnbR4Go3-55" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;gradientColor=#ffd966;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="DXzVk3drle5wCnbR4Go3-5" edge="1">
           <mxGeometry x="0.1445" y="1" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="848" y="417" as="sourcePoint" />
+            <mxPoint x="516" y="422" as="sourcePoint" />
             <mxPoint x="655" y="604" as="targetPoint" />
             <Array as="points">
               <mxPoint x="616" y="437" />
@@ -125,7 +125,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y_YnZIeOcwDo8_RhBI7r-1" value="IT SDP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Y_YnZIeOcwDo8_RhBI7r-1" value="IT SDP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="446" y="512" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
